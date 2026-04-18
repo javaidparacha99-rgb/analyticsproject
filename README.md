@@ -74,7 +74,7 @@ Each customer is scored and placed into one of five segments:
 
 ## How to Use
 
-Download `Customer_Analytics_2024.xlsx` and open in Microsoft Excel. Each sheet is organized and labelled for easy navigation. Customer segments follow a green to red scale from high to low value.
+Download and open in Microsoft Excel. Each sheet is organized and labelled for easy navigation. Customer segments follow a green to red scale from high to low value.
 
 ---
 
