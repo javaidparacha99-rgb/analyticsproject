@@ -1,6 +1,6 @@
 # Customer Analytics Project (2026)
 
-A customer analytics project analyzing 2,000+ customer transactions to identify behaviour patterns, segment customers, and present insights in a structured Excel dashboard.
+A customer analytics project analyzing 2,000+ customer transactions to identify behaviour patterns, segment customers into groups, and present insights in a structured Excel dashboard.
 
 ---
 
@@ -16,10 +16,10 @@ The output is a fully structured Excel workbook with six sheets covering raw tra
 
 | Sheet | Contents |
 |---|---|
-| Transaction Data | 2,000+ transaction records across 391 unique customers, colour-coded by segment |
-| KPI Dashboard | Key metrics covering transactions, revenue, loyalty membership, and customer behaviour |
-| Customer Segmentation | All customers scored and placed into segments using RFM analysis, with a recommended action for each |
-| Category & Channel | Revenue and transaction breakdown by product category and sales channel, with charts |
+| Transaction Data | 2,000+ transaction records across 399 unique customers, colour-coded by customer segment |
+| KPI Dashboard | Key metrics covering transactions, revenue, loyalty program, and customer behaviour |
+| Customer Segmentation | All customers scored and segmented using RFM analysis, with a recommended action for each |
+| Category & Channel | Revenue and transaction breakdown by product category and sales channel, with bar charts |
 | Monthly Trends | Month-by-month transaction volume, revenue, satisfaction scores, and items sold with line charts |
 | Findings & Recommendations | 6 findings and 5 recommendations written in full |
 
@@ -42,21 +42,21 @@ RFM is a standard customer analytics framework that scores each customer on thre
 ## Key Findings
 
 - Loyalty members generate a higher average order value than non-members across all categories
-- Ecommerce and digital channels produce larger average baskets than in-store transactions
+- Electronics drives the highest total revenue despite not being the highest-volume category
+- Online and Mobile App channels produce larger average baskets than In-Store transactions
 - Champions and Loyal Customers represent a disproportionate share of total revenue
-- Return rates are low overall but concentrated in Apparel and Beauty categories
-- Satisfaction scores of 1 or 2 are strongly correlated with return behaviour
-- October and November are the highest volume months, pointing to a seasonal peak opportunity
+- Returns are concentrated in Clothing & Apparel and Beauty, strongly correlated with low satisfaction scores
+- October and November are the highest-volume months, pointing to a clear seasonal planning opportunity
 
 ---
 
 ## Key Recommendations
 
-1. Accelerate loyalty membership conversion among non-members through sign-up incentives
-2. Invest in the digital channel experience to capture larger basket sizes online
-3. Launch a targeted win-back campaign for At-Risk and Lost/Inactive customers
-4. Address return drivers in Apparel and Beauty through better product information and sizing tools
-5. Align promotions and inventory planning to seasonal peaks identified in the monthly trends analysis
+1. Prioritize retention of Champions and Loyal Customers through tiered loyalty benefits
+2. Launch a win-back campaign for At-Risk and Inactive customers with a time-limited incentive
+3. Invest in the digital channel experience to capture larger baskets online and on mobile
+4. Reduce returns in Clothing and Beauty through better product information and post-purchase follow-up
+5. Align inventory and promotions to the October and November seasonal peak identified in the monthly trends
 
 ---
 
